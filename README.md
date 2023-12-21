@@ -1,4 +1,5 @@
 # Memory Leak Resolution Tool
+Note: This code was not designed to be production-level code. Rather, it was developed to explore the posibilities of memory leak resolution suggestion in an educational context. Expect slight spaghetti.
 
 ## Overview
 This tool was developed as part of a Bachelor thesis. It is designed to streamline the process of fixing memory leaks in C++ source code. It targets educational contexts, aiding both educators and students. The tool extends beyond leak detection, offering suggestions for where memory should be deallocated in the source code.
